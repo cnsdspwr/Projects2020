@@ -1,2 +1,3 @@
-# Projects2020
-Final projects, Computational Network Science @ PWr
+# cnsdspwr.github.io
+Computational Network Science @ PWr
+https://studiujdatascience.pl/
